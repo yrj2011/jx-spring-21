@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: 10.104.61.235:5000/yrj2011/jx-spring-21
-  tag: \0.0.2
+  tag: v0.0.2
   pullPolicy: IfNotPresent
 
 # define environment variables here as a map of key: value
